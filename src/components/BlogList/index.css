@@ -1,0 +1,9 @@
+.list-container {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
